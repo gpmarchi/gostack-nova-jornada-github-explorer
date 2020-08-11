@@ -1,44 +1,40 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Github Explorer
 
-## Available Scripts
+Projeto desenvolvido como exercício do Bootcamp Gostack da Rocketseat. Front-end desenvolvido em ReactJS para uma aplicação que utiliza a API do github para listar repositórios de usuários com algumas informações adicionais.
 
-In the project directory, you can run:
+## Tecnologias e libs utilizadas
 
-### `yarn start`
+Abaixo seguem as tecnologias utilizadas no desenvolvimento do projeto:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- ReactJS
+- axios
+- styled components
+- typescript
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Requisitos iniciais
 
-### `yarn test`
+Para poder rodar o projeto, é necessário que os itens abaixo estejam instalados:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Node.js](https://nodejs.org/en/download/)
+- [npm](https://www.npmjs.com/get-npm) ou [yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
+- [git](https://git-scm.com/downloads)
 
-### `yarn build`
+## Instalação
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para instalar o projeto localmente na sua máquina, clonar o repositório:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+    git clone https://github.com/gpmarchi/gostack-fastfeet-frontend-web.git && cd gostack-fastfeet-frontend-web
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Rodar o comando abaixo para instalar as dependências:
 
-### `yarn eject`
+    yarn
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Rodando o projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A partir desse momento o ambiente já está preparado para rodarmos a front-end. Para iniciar o servidor de desenvolvimento rodar o comando:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    yarn start
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Testando as funcionalidades
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+As funcionalidades da aplicação poderão ser testadas através do endereço [http://localhost:3000](http://localhost:3000).
