@@ -1,6 +1,6 @@
 # Github Explorer
 
-Projeto desenvolvido como exercício do Bootcamp Gostack da Rocketseat. Front-end desenvolvido em ReactJS para uma aplicação que utiliza a API do github para listar repositórios de usuários com algumas informações adicionais.
+Projeto desenvolvido como exercício do bootcamp Gostack da Rocketseat. Front-end desenvolvido em ReactJS com typescript para uma aplicação que utiliza a API do github para listar repositórios de usuários com algumas informações adicionais.
 
 ## Tecnologias e libs utilizadas
 
@@ -23,7 +23,7 @@ Para poder rodar o projeto, é necessário que os itens abaixo estejam instalado
 
 Para instalar o projeto localmente na sua máquina, clonar o repositório:
 
-    git clone https://github.com/gpmarchi/gostack-fastfeet-frontend-web.git && cd gostack-fastfeet-frontend-web
+    git clone https://github.com/gpmarchi/gostack-nova-jornada-github-explorer && cd gostack-nova-jornada-github-explorer
 
 Rodar o comando abaixo para instalar as dependências:
 
